@@ -1,5 +1,5 @@
 # Torre to Learn
-Making work fulfilling for everyone and now Learn the strengths do you need.
+Making work fulfilling for everyone and now **Learn the strengths do you need**.
 
 ## Content
 This is an idea for technical test, find specific strengths for a better job and where to learn them
@@ -10,10 +10,10 @@ Algorithm for this is an analysis of its strengths and the strengths the company
 If the feature is accepted, the logic can be implement to detect the most demanded skills and recommend learning them for achieve the mission of fulfilling for everyone
 
 ## Stack
-I develop in stack MERN 
-Backend from server Node.js (frameworks like Express.js - Hapi.js)
-Frontend with React
-And consuming the data from Torre - (mongo o db needed)
+* I develop in stack MERN 
+* Backend from server Node.js (frameworks like Express.js - Hapi.js)
+* Frontend with React
+* And consuming the data from Torre - (mongo o db needed)
 
 ## Consuming DATA - tool postman
 Strengths of User
