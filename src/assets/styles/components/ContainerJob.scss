@@ -18,3 +18,17 @@
   padding: 0;
   font-size: 15px;
 }
+
+.container-job-details-learn {
+  flex-direction: row;
+  display: flex;
+}
+
+.container-job-details-learn button {
+  padding: 5px;
+  margin: 5px;
+  border-radius: 10px;
+  height: fit-content;
+  margin-top: 15px;
+  padding-top: 0px;
+}

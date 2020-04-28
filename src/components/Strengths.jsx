@@ -7,7 +7,9 @@ const dataUser = 'https://torre.bio/api/bios/juanjosevegaq';
 const dataCompany = 'https://torre.co/api/opportunities/NwqxZlW3';
 
 const ContainerJob = () => (
-  <div className="">{/* implement info and Strengths */}</div>
+  <div className="">
+    {/* implement info and Strengths comparative what have and what need */}
+  </div>
 );
 
 export default ContainerJob;

@@ -5,7 +5,7 @@ Making work fulfilling for everyone and now Learn the strengths do you need.
 This is an idea for technical test, find specific strengths for a better job and where to learn them
 
 ## Demo
-If you want to see the demo of this project deployed, you can visit [Demo of the project](https://)
+If you want to see the demo of this project deployed, you can visit [Demo of the project](https://torre-to-learn.herokuapp.com/)
 
 ## How to clone
 If you have special requirements, you have to list it step by step.
