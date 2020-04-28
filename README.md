@@ -23,7 +23,7 @@ npm install
 ## Preview
 Insert here an image of the preview if your project has one. The image can be into the project, you have to indicate the route and look like this.
 
-![](/preview.jpg)
+![](/src/assets/static/demo-1.png)
 
 ### Notes
 If you want to learn all about markdown i recommend you visit the site [markdown.es](https://markdown.es/sintaxis-markdown/)
