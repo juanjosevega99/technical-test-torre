@@ -65,4 +65,15 @@ const setResponse = (html, preloadedState, manifest) => {
       </html>`;
 };
 
-
+const renderApp = (req, res) => {
+  const store = createStore(reducer, initialState);
+  const preloadedState = store.getState();
+  const html = renderToString(
+    <Provider store={store}>
+      <StaticRouter location={req.url} context={{}}>
+        <Layout>{renderRoutes(serverRoutes)}</Layout>
+      </StaticRouter>
+    </Provider>
+  );
+  res.send(setResponse(html, preloadedState, req.hashManifest));
+};
