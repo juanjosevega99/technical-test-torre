@@ -4,16 +4,14 @@ Making work fulfilling for everyone and now Learn the strengths do you need.
 ## Content
 This is an idea for technical test, find specific strengths for a better job and where to learn them
 
+## Algorithm
+Algorithm for this is an analysis of its strengths and the strengths the company needs. Here TORRE will already know and recommend where you can quickly learn
+
+If the feature is accepted, the logic can be implement to detect the most demanded skills and recommend learning them for achieve the mission of fulfilling for everyone
+
 ## Demo
 If you want to see the demo of this project deployed, you can visit [Demo of the project](https://torre-to-learn.herokuapp.com/)
 
-## How to clone
-If you have special requirements, you have to list it step by step.
-* This is the first step
-* Then you have to do this
-* Finally do this
-
-Markdown has enumation and nested lists.
 
 ## Installation
 To install and run this project just type and execute
