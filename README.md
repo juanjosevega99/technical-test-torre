@@ -17,9 +17,11 @@ If the feature is accepted, the logic can be implement to detect the most demand
 
 ## Consuming DATA - tool postman
 Strengths of User
+
 ![](/src/assets/static/demo-3.png)
 
 Strengths required for the company
+
 ![](/src/assets/static/demo-4.png)
 
 ## Demo
@@ -41,4 +43,6 @@ TORRE immediately recommends where you can learn that strength to be a better ch
 ![](/src/assets/static/demo-2.png)
 
 ### Notes
-If you want to learn all about markdown i recommend you visit the site [markdown.es](https://markdown.es/sintaxis-markdown/)
+At this point, things and logic are missing, you decide if you want to build a job that satisfies everyone.
+
+**I never stop learning to build the best product for Torre**
