@@ -5,7 +5,7 @@ Making work fulfilling for everyone and now **Learn the strengths do you need**.
 This is an idea for technical test, find specific strengths for a better job and where to learn them
 
 ## Logic
-Algorithm for this is an analysis of its strengths and the strengths the company needs. Here TORRE will already know and recommend where you can quickly learn
+Algorithm for this is an analysis of its strengths and the strengths the company needs. Here Torre will already know and recommend where you can quickly learn
 
 If the feature is accepted, the logic can be implement to detect the most demanded skills and recommend learning them for achieve the mission of fulfilling for everyone
 
@@ -43,6 +43,6 @@ TORRE immediately recommends where you can learn that strength to be a better ch
 ![](/src/assets/static/demo-2.png)
 
 ### Notes
-At this point, things and logic are missing, you decide if you want to build a job that satisfies everyone.
+At this point, things and logic are missing, you decide if you want to making work fulfilling for everyone, with me.
 
 **I never stop learning to build the best product for Torre**
