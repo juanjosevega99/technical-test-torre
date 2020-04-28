@@ -5,7 +5,7 @@ import ContainerJob from '../components/ContainerJob';
 
 import '../assets/styles/App.scss';
 
-const App = () => (
+const Home = () => (
   <div className="App">
     <Header />
     <Search />
@@ -13,4 +13,4 @@ const App = () => (
   </div>
 );
 
-export default App;
+export default Home;
